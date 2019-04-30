@@ -1,0 +1,1 @@
+<script src="<c:url value="/resources/script/artDialog5.0/artDialog.min.js"/>" type="text/javascript"></script>
