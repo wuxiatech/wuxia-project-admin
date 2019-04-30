@@ -16,7 +16,7 @@
     <version>2.0.1</version>
     <description>管理系统，包括用户管理，权限管理等</description>
     <packaging>war</packaging>
-
+    <url>https://github.com/wuxiatech/wuxia-project-admin.git</url>
     <dependencies>
         <dependency>
             <groupId>cn.wuxia.project</groupId>
