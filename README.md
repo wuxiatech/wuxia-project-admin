@@ -1,4 +1,4 @@
-# toutiao-admin
+# 
 
 #### 项目介绍
 {**以下是码云平台说明，您可以替换为您的项目简介**
@@ -12,16 +12,16 @@
 #### 安装教程
 
 以IDEA为例
-1. 在菜单选择VCS -> Checkout From Version Control  -> Git -> https://gitee.com/wuxiatech/toutiao-admin.git<br>
+1. 在菜单选择VCS -> Checkout From Version Control  -> Git -> https://github.com/wuxiatech/wuxia-project-admin.git<br>
 
-2. 或者直接使用命令 git clone https://gitee.com/wuxiatech/toutiao-admin.git<br>
+2. 或者直接使用命令 git clone https://github.com/wuxiatech/wuxia-project-admin.git<br>
 2.1 使用命令导出到本地工作目录之后需要import到IDEA的工作区，菜单选择File -> New -> Module From Existing Sources... 找到导出的根目录即可<br>
 
 
 #### 使用说明
 
-1  在面板右侧找到Maven Project -> Toutiao Admin Application -> RunConfigurations -> 双击toutiao-admin即可完成后台的启动
-2. 如果上面异步没有Run Configurations选项，则使用Maven Project -> Toutiao Admin Application -> Plugins -> jetty -> 双击jetty:run即可完成后台的启动
+1  在面板右侧找到Maven Project -> Project Admin Application -> Plugins -> 双击jetty:run即可完成后台的启动
+2. 如果上面异步没有Run Configurations选项，则使用Maven Project -> Project Admin Application -> Plugins -> jetty -> 双击jetty:run即可完成后台的启动
 
 
 #### 参与贡献
